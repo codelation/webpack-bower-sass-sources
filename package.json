@@ -1,0 +1,20 @@
+{
+  "name": "webpack-bower-sass-sources",
+  "description": "A module for including Bower components as Sass sources when evaluating @import",
+  "version": "1.0.0",
+  "author": {
+    "name": "Brian Pattison",
+    "email": "brian@codelation.com",
+    "url": "http://brianpattison.com"
+  },
+  "homepage": "https://github.com/codelation/webpack-bower-sass-sources",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codelation/webpack-bower-sass-sources.git"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "app-root-path": "^1.2.1"
+  }
+}
